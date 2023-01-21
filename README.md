@@ -2,7 +2,7 @@
   Projeto Android
 </h1>
 
-<img src="">
+<img src="imagens/Android.gif">
 
 ## 📝 Descrição 
  Curiosidades de tecnologia, desenvolvido durante o curso de HTML CSS do curso em vídeo.
